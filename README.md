@@ -1,3 +1,3 @@
 # salmondev.github.io
 
-Build with `Laravel` 
+Build with `salmondev` 
